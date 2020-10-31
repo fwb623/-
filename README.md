@@ -49,6 +49,7 @@
 	       Student Stu=new Student(); 
 	       Stu.getName(); 
 ### 6.系统运行结果
+https://github.com/fwb623/-/blob/main/%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C.png
 ### 7.实验感想
  
 
