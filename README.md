@@ -27,12 +27,12 @@
         class Teacher extends person
         class Secourse extends person
  - 3，在课程中加入选课和退课
- ## 4.核心代码：
+ ## 4.流程图：
+ ## 5.核心代码：
  
      public String getId() { 
-	            return Id; 
-	                           } 
-	        public void setId(String 	Id) { 
+	            return Id;     } 
+	        public void setId(String Id) { 
 	            this.Id = Id;  } 
            
      class Secourse extends person{ 
@@ -47,6 +47,8 @@
     public void xuanke(String Name){ 
 	       Student Stu=new Student(); 
 	       Stu.getName(); 
+### 6.系统运行结果
+### 7.实验感想
  
 
 
