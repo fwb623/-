@@ -15,10 +15,10 @@
 
 
  ## 3.实验过程：        
--        person（id，name,sex）
--        Student(id,name,sex,course)
--        Teacher(id,name,sex,course)
--        Secourse(courseid,coursename,place,time,teaching)
+-        person（id，name,sex）<br>
+        Student(id,name,sex,course)<br>
+       Teacher(id,name,sex,course)<br>
+        Secourse(courseid,coursename,place,time,teaching)<br>
 - 1,创建5个类分别是person,Student,Teacher,Secourse,test.设置person为父类剩下继承父类东西
 ---
 class Student extends person{
