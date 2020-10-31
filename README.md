@@ -16,6 +16,6 @@
 
  ## 3.实验过程：        
 - 对象 :  person（id，name,sex）
-         Student(id,name,sex,course)
-         Teacher(id,name,sex,course)
-         Secourse(courseid,coursename,place,time,teaching)
+-        Student(id,name,sex,course)
+-        Teacher(id,name,sex,course)
+-        Secourse(courseid,coursename,place,time,teaching)
