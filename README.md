@@ -21,9 +21,11 @@
 -        Secourse(courseid,coursename,place,time,teaching)
 - 1,创建5个类分别是person,Student,Teacher,Secourse,test.设置person为父类剩下继承父类东西
 ---
-class Student extends person{}
-class Teacher extends person{}
-class Secourse extends person{}
----
+class Student extends person{
+}
+class Teacher extends person{
+}
+class Secourse extends person{
+}
 
 
