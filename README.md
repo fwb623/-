@@ -10,7 +10,7 @@
 - 5,掌握使用Object根类的toString（）方法,应用在相关对象的信息输出中。
 ## 1.实验要求：
 - 学校有“人员”preson，分为“教师”Teacher和“学生”Student，教师教授“课程”Secourse，学生选择“课程”course。从简化系统考虑，每名教师仅教授一门课程，每门课程的授课教师也仅有一位，每名学生选仅选一门课程。
--对象 :  person（id，name,sex）
+- 对象 :  person（id，name,sex）
          Student(id,name,sex,course)
          Teacher(id,name,sex,course)
          Secourse(courseid,coursename,place,time,teaching)
