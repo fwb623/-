@@ -28,6 +28,7 @@
         class Secourse extends person
  - 3，在课程中加入选课和退课
  ## 4.流程图：
+ https://github.com/fwb623/-/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png
  ## 5.核心代码：
  
      public String getId() { 
