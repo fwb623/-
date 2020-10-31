@@ -15,7 +15,13 @@
 
 
  ## 3.实验过程：        
-- 对象 :  person（id，name,sex）
+-        person（id，name,sex）
 -        Student(id,name,sex,course)
 -        Teacher(id,name,sex,course)
 -        Secourse(courseid,coursename,place,time,teaching)
+-1,创建5个类分别是person,Student,Teacher,Secourse,test.设置person为父类剩下继承父类东西
+---class Student extends person{}
+class Teacher extends person{}
+class Secourse extends person{}---
+
+
