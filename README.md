@@ -15,14 +15,38 @@
 
 
  ## 3.实验过程：        
--        person（id，name,sex）
+- 1.定义各类的成员对象
+
+         person（id，name,sex）
          Student(id,name,sex,course)
          Teacher(id,name,sex,course)
          Secourse(courseid,coursename,place,time,teaching)
-- 1,创建5个类分别是person,Student,Teacher,Secourse,test.设置person为父类剩下继承父类成员变量和方法
+- 2,创建5个类分别是person,Student,Teacher,Secourse,test.设置person为父类剩下继承父类成员变量和方法
 
         class Student extends person
         class Teacher extends person
         class Secourse extends person
+ - 3，在课程中加入选课和退课
+ ## 4.核心代码：
+ 
+     public String getId() { 
+	            return Id; 
+	                           } 
+	        public void setId(String 	Id) { 
+	            this.Id = Id;  } 
+           
+     class Secourse extends person{ 
+	        String Name; 
+	        private String courseId; 
+	        private String coursename; 
+	        private String place;
+	        private String time; 
+	        private String teacher; 
+	       String [] a= {"高数","英语","java"}; }
+        
+    public void xuanke(String Name){ 
+	       Student Stu=new Student(); 
+	       Stu.getName(); 
+ 
 
 
