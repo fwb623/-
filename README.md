@@ -28,7 +28,7 @@
         class Secourse extends person
  - 3，在课程中加入选课和退课
  ## 4.流程图：
- https://github.com/fwb623/-/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png
+ ![](https://github.com/fwb623/-/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
  ## 5.核心代码：
  
      public String getId() { 
@@ -49,7 +49,7 @@
 	       Student Stu=new Student(); 
 	       Stu.getName(); 
 ### 6.系统运行结果
-https://github.com/fwb623/-/blob/main/%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C.png
+ ![](https://github.com/fwb623/-/blob/main/%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C.png)
 ### 7.实验感想
 通过这次试验我明白了继承的道理，继承是创建父类然后用子类继承父类的方法和成员变量，而super关键字是子类被隐藏的成员变量和方法。
  
